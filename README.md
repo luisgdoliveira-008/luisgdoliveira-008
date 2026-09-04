@@ -1,14 +1,7 @@
 Hi, I'm Luis Gustavo!
 About me
-🚀 Aspiring Software Developer | Additive Manufacturing Enthusiast | Technical Competitor
-
 I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in Systems Development at SESI School.
 
-I work with SENAI in high-performance technical and professional competition teams, where I apply engineering principles, problem-solving skills, and teamwork to solve real industrial challenges under competitive standards.
-
-⚙️ Passionate about technology, manufacturing, and programming
-🧩 Project developer in the field of additive manufacturing
-📐 Experienced with CAD software and 3D modeling tools
 Currently learning
 <h3 align="center">A passionate frontend developer from India</h3>
 
