@@ -1,6 +1,6 @@
 Hi, I'm Luis Gustavo!
 About me
-I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in Systems Development at SESI School.
+I’m a 18-year-old Brazilian student currently pursuing a Technical Degree in Systems Development at SESI School.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
